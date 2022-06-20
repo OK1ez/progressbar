@@ -1,2 +1,1 @@
-# progressbar
-Project Sloth Progressbar 
+All credit to project sloth
