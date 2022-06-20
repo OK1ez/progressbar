@@ -4,8 +4,8 @@ Dependency For QB-Core
 Circular Progressbar with access to font awesome icons to change with.
 
 # Previews
-![image](https://user-images.githubusercontent.com/82112471/168499116-faaadbbb-b0a3-4708-9330-d96ccb9a885a.png)
-![image](https://i.imgur.com/HIz3l2i.jpeg)
+
+![image](https://i.imgur.com/kjt1DVq.png)
 
 
 # Changes to do!
