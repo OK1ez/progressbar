@@ -1,4 +1,4 @@
-Credit to Project Sloth
+This is a edit of the progressbar made by Project Sloth
 
 # progressbar
 Dependency For QB-Core
