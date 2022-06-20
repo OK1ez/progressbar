@@ -1,7 +1,9 @@
+Credit to Project Sloth
+
 # progressbar
 Dependency For QB-Core
 
-Circular Progressbar with access to font awesome icons to change with.
+Circular Progressbar
 
 # Previews
 
@@ -9,5 +11,3 @@ Circular Progressbar with access to font awesome icons to change with.
 
 You dont need to edit anything for this to work
 
-
-# Any PR's for changes in UI are welcome!
